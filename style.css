@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	background-image: url("https://images.pexels.com/photos/1111320/pexels-photo-1111320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-size: cover;
+	color: #e3e5e4;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+	height: 100vh;
+	margin: 20px 0 80px 50%;
+}
+
+p {
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+
+h2 {
+	font-style: italic;
+	font-size: 12px;
+}
