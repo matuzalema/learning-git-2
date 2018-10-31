@@ -25,5 +25,6 @@ small {
 
 h1 {
 	color: orange;
+	display: -ms-flexbox;
 	display: flex;
 }
