@@ -17,10 +17,10 @@ p {
 	letter-spacing: 1px;
 }
 
-h2 {
+small {
+	color: orange;
 	font-style: italic;
 	font-size: 12px;
-	color:orange;
 }
 
 h1 {
